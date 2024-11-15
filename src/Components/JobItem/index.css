@@ -1,0 +1,89 @@
+.Link {
+  text-decoration: none;
+}
+.li-filter {
+  list-style-type: none;
+}
+.filter-inp {
+  color: #ffffff;
+}
+.filter-label {
+  color: #ffffff;
+}
+.filter-heading {
+  color: #ffffff;
+  font-size: 15px;
+}
+
+.li {
+  list-style: none;
+}
+.list-container {
+  display: flex;
+  flex-direction: column;
+  border: none;
+  border-radius: 15px;
+  background-color: #272727;
+  font-family: 'Roboto';
+  color: #ffffff;
+  padding: 30px;
+  padding-top: 40px;
+  margin: 10px;
+}
+.top-cont {
+  display: flex;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.hr {
+  color: #6366f1;
+  border: 1px solid #6366f1;
+  width: 100%;
+}
+.title {
+  margin-bottom: 7px;
+  font-size: 23px;
+  margin-top: 0px;
+}
+.comp-logo {
+  height: 70px;
+  margin-right: 20px;
+}
+.line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.line-sub {
+  display: flex;
+  align-items: center;
+}
+.line-icon {
+  margin: 10px;
+  font-size: 25px;
+}
+.p {
+  font-size: 15px;
+  margin-right: 10px;
+}
+.rateing-cont {
+  display: flex;
+  align-items: center;
+  margin: 0px;
+}
+.star {
+  font-size: 20px;
+  color: gold;
+  margin-right: 5px;
+}
+.rating-num {
+  font-size: 20px;
+  margin: 0px;
+}
+.desc {
+  font-size: 15px;
+  margin-top: 5px;
+}

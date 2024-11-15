@@ -1,0 +1,13 @@
+.bg-notFound-contianer {
+  background-color: #000000;
+  font-family: 'Roboto';
+  color: #ffffff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.not-found-img {
+  height: 50%;
+}

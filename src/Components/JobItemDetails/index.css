@@ -1,0 +1,136 @@
+.desc-conm {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.details-bg-container {
+  margin-top: 50px;
+}
+.failure-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  color: #ffffff;
+  flex-direction: column;
+  margin-top: 50px;
+}
+.fil-paraa {
+  font-size: 13px;
+}
+.btn {
+  color: #ffffff;
+  background-color: #4f46e5;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  width: 90px;
+  font-family: 'Roboto';
+  cursor: pointer;
+  outline: none;
+}
+.visit {
+  font-size: 30px;
+  text-decoration: none;
+  color: #6366f1;
+  display: flex;
+  align-items: center;
+}
+.visit-ligo {
+  margin-left: 5px;
+}
+.lists {
+  display: inline;
+  list-style-type: none;
+}
+.lists-con {
+  background-color: #272727;
+  font-family: 'Roboto';
+  color: #ffffff;
+  padding: 30px;
+  border: none;
+  border-radius: 20px;
+  width: 400px;
+  margin: 30px;
+}
+.stitle {
+  font-weight: 500;
+  margin-bottom: 7px;
+  font-size: 20px;
+  margin-top: 0px;
+}
+.similar-desc {
+}
+
+.similar-description {
+  margin-right: 5px;
+}
+.simi-ul-cont {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.similar-comp-logo {
+  height: 65px;
+  margin-right: 15px;
+}
+.life-img {
+  height: 250px;
+}
+.life-cont {
+  display: flex;
+}
+.bg-job-details-container {
+  background-color: #000000;
+  font-family: 'Roboto';
+}
+.desc-heading {
+  font-size: 30px;
+  font-weight: normal;
+}
+.simil-desc-heading {
+  font-size: 30px;
+  font-weight: normal;
+  font-family: 'Roboto';
+  color: #ffffff;
+  padding-top: 30px;
+  margin: 20px;
+}
+.description {
+  font-size: 20px;
+  font-weight: normal;
+  font-family: 'Roboto';
+}
+.ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  flex-direction: row;
+  margin-bottom: 50px;
+}
+.img-class {
+  height: 80px;
+}
+.skill-list {
+  list-style-type: none;
+  margin-left: 0;
+  margin: auto;
+  display: inline-block;
+}
+.skill-name {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #ffffff;
+  margin-left: 30px;
+}
+.list-co {
+  display: flex;
+  margin: 30px;
+  align-items: center;
+}
+
+.details-bg-container {
+  padding: 40px;
+  padding-top: 60px;
+}
