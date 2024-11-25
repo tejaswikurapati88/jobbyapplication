@@ -6,6 +6,7 @@ import {Component} from 'react'
 import JobItem from '../JobItem'
 import './index.css'
 import Header from '../Header'
+import FooterContact from '../FooterContact'
 
 const apiStatusConstantsProfile = {
   initial: 'INITIAL',
@@ -455,6 +456,7 @@ class Jobs extends Component {
             {this.renderJobsList()}
           </div>
         </div>
+        <FooterContact />
       </div>
     )
   }

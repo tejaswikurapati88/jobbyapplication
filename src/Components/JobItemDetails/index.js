@@ -7,6 +7,7 @@ import {Component} from 'react'
 import {HiExternalLink} from 'react-icons/hi'
 import './index.css'
 import Header from '../Header'
+import FooterContact from '../FooterContact'
 
 const apiStatusConstants = {
   success: 'SUCCESS',
@@ -246,6 +247,7 @@ class JobItemDetails extends Component {
       <div className="bg-job-details-container">
         <Header />
         {this.renderObject()}
+        <FooterContact />
       </div>
     )
   }

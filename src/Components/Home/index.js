@@ -2,6 +2,7 @@ import './index.css'
 import {Link} from 'react-router-dom'
 import {Component} from 'react'
 import Header from '../Header'
+import FooterContact from '../FooterContact'
 
 class Home extends Component {
   onFindJobs = () => {
@@ -35,6 +36,7 @@ class Home extends Component {
             </Link>
           </div>
         </div>
+        <FooterContact />
       </div>
     )
   }
